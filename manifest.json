@@ -1,6 +1,7 @@
 {
     "short_name": "Notes",
     "name": "Notes App",
-    "start_url": "/",
+    "start_url": "/notes-app/index.html",
+    "scope": "/notes-app/",
     "display": "standalone"
 }
